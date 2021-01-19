@@ -1,0 +1,12 @@
+maia-chess
+https://github.com/Atzingen/maia-chess
+http://csslab.cs.toronto.edu/datasets/#maia_kdd
+
+
+tutoriais:
+
+https://towardsdatascience.com/creating-a-chess-engine-with-deep-learning-b9477ff3ee3d
+
+
+Artigos:
+https://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf
